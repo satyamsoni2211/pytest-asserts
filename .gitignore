@@ -1,0 +1,10 @@
+**/.pytest_cache
+.venv
+.idea
+__pycache__
+dist
+site
+build
+.vscode
+**/.DS_Store
+**/*.pyc
